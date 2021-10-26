@@ -1,0 +1,38 @@
+body {
+    background-color:floralwhite;
+    padding:50px;
+    font-family:verdana;
+}
+table{
+    width: 800px;
+    border-collapse: collapse;
+    column-rule-style: ridge
+}
+
+td{padding: 7px 10px 10px 10px;}
+th{font-size: 90%;
+}
+h1{font-size: 100px;}
+fieldset{text-align: center;
+         padding:5px;}
+.boder{border-width:50px;
+border-style:outset;
+border-color: beige;
+}
+h3 {background-color: beige;}
+.submit{background-color:activecaption;
+       text-shadow: 2px 3px 2px;
+       font-style:oblique;
+       font-size: 20px;
+}
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 25, 2021, 4:32:37 PM
+    Author     : menju
+*/
+
